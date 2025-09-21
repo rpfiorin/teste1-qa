@@ -1,0 +1,12 @@
+{
+  "existente": {
+    "email": "joao_valido@exemplo.com",
+    "name": "João",
+    "accountNumber": "999-9",
+    "balance": "1000",
+    "status": "false"
+  },
+  "inexistente": {
+    "email": "usuario_invalido@exemplo.com"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "gx2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:firefox": "cypress run --browser firefox",
+    "cy:debug:chrome": "cypress run --headed --browser chrome",
+    "cy:debug:firefox": "cypress run --headed --browser firefox"
+  },
+  "author": "Rafael P. Fiorin",
+  "license": "ISC",
+  "description": "Log in tests",
+  "devDependencies": {
+    "cypress": "15.2.0",
+    "cypress-real-events": "^1.13.0",
+    "dotenv": "^17.2.2"
+  },
+  "packageManager": "yarn@4.9.2"
+}

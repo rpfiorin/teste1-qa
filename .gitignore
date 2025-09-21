@@ -1,0 +1,4 @@
+# Ignora diretórios/arquivos desnecessários.
+/node_modules
+/.yarn
+yarn.lock
