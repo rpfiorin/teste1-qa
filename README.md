@@ -18,9 +18,9 @@
 ## Execução ⚡
 5. Confira a massa de teste que deseja ser utilizada (por padrão, está definido dados usados pela automação do projeto 'teste2-qa'), no arquivo fixtures/users.json 
 
-   Para executar de forma assistida: _yarn cy:debug:digite-chrome-ou-firefox_
+   Para executar de forma assistida: _yarn cy:debug:chrome-ou-firefox-por-exemplo_
    
-   Para executar em modo headless: _yarn cy:run:digite-chrome-ou-firefox_
+   Para executar em modo headless: _yarn cy:run:chrome-ou-firefox-por-exemplo_
 
 OBS: No diretório screenshots/login.cy.js/resultado haverá evidências de execução. Toda a codificação do projeto foi comentada para fácil compreensão e documentação (exceto arquivos gerados automaticamente). 
 
