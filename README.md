@@ -7,7 +7,7 @@
 ## Preparação 📍
 1. Primeiramente, clone este projeto com opção HTTPS ou SSH.
 2. O projeto foi desenvolvido em cima da versão 22 do Node.js, logo, certifique-se de estar com esta versão em seu SO ou instale-a pelo diretório 'node' (caso utilize Windows). Para linux, consulte o respectivo procedimento de acordo com a distribuição utilizada.
-3. Como gerenciador de pacotes, utilizei o yarn, então após a instalação do node 18, execute seu CMD como Admin e rode o comando: _corepack enable_ 
+3. Como gerenciador de pacotes, utilizei o yarn, então após a instalação do Node.js 22, execute seu CMD como Admin e rode o comando: _corepack enable_ 
  (Isso o ativará em seu SO, caso solicite confirmação, aceite com a opção correspondente).
 
 ## Configuração 🏁
