@@ -16,13 +16,13 @@
  E depois: _yarn cypress open_ (para configurar o cypress pela 1º vez), feche a janela que se abrirá depois de carregada.
 
 ## Execução ⚡
-5. Confira a massa de teste que deseja ser utilizada (por padrão, está definido dados usados pela automação do projeto 'teste2-qa'), no arquivo fixtures/users.json 
+5. Confira a massa de teste que deseja ser utilizada (por padrão, está definido dados usados pela automação do projeto teste2-qa), no arquivo 'fixtures/users.json'.
 
    Para executar de forma assistida: _yarn cy:debug:chrome-ou-firefox-por-exemplo_
    
    Para executar em modo headless: _yarn cy:run:chrome-ou-firefox-por-exemplo_
 
-OBS: No diretório screenshots/login.cy.js/resultado haverá evidências de execução. Toda a codificação do projeto foi comentada para fácil compreensão e documentação (exceto arquivos gerados automaticamente). 
+OBS: No diretório 'screenshots/login.cy.js/resultado' haverá evidências de execução. Toda a codificação do projeto foi comentada para fácil compreensão e documentação (exceto arquivos gerados automaticamente). 
 
 ## Extra ➕
 6. O projeto também foi desenvolvido para executar os testes via Docker (com Electron), para isso:
