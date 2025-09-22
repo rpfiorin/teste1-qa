@@ -16,7 +16,7 @@
  E depois: _yarn cypress open_ (para configurar o cypress pela 1º vez), feche a janela que se abrirá depois de carregada.
 
 ## Execução ⚡
-5. Confira a massa de teste que deseja ser utilizada (por padrão, está definido a conta criada pela automação do 2º teste), no arquivo fixtures/account.json 
+5. Confira a massa de teste que deseja ser utilizada (por padrão, está definido dados usados pela automação no projeto 'teste2-qa'), no arquivo fixtures/users.json 
 
    Para executar de forma assistida: _yarn cy:debug:digite-chrome-ou-firefox_
    
