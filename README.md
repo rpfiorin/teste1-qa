@@ -11,7 +11,7 @@
  (Isso o ativará em seu SO, caso solicite confirmação, aceite com a opção correspondente).
 
 ## Configuração 🏁
-4. Com o diretório do projeto aberto no CMD, execute: _yarn install_ (para baixar a node_modules) 
+4. Com o diretório do projeto aberto no CMD, execute: _yarn install_ (para baixar a node_modules).
 
  E depois: _yarn cypress open_ (para configurar o cypress pela 1º vez), feche a janela que se abrirá depois de carregada.
 
@@ -27,7 +27,7 @@ OBS: No diretório 'screenshots/login.cy.js/resultado' haverá evidências de ex
 ## Extra ➕
 6. O projeto também foi desenvolvido para executar os testes via Docker (com Electron), para isso:
 
-* Confira se o Docker foi instalado e se está em execução
+* Confira se o Docker foi instalado e se está em execução.
 * Abra o prompt neste diretório e rode:
    - _docker build -t front-end_ .
 * Após concluir o passo 2, execute este comando:
